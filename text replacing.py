@@ -24,5 +24,3 @@ for paragraph in doc.paragraphs:
 
 
 doc.save(location)
-
-# /Users/patrickluo/Documents/Coding/abc.docx
